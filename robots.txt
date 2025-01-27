@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://srdjan-tehnicar.github.io/sitemap.xml
