@@ -52,10 +52,6 @@ a{
   text-decoration: underline;
 }
 
-nav a{
-  font-weight: bolder;
-}
-
 .nav-link{
   border-radius: 15px;
   margin:5px;
